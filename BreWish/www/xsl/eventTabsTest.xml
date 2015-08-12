@@ -1,0 +1,26 @@
+<EventList>
+	<Event id="199">
+		<EventName>Test Name Of Event</EventName>		<!-- Text less than X Characters -->
+		<EventTime>08-05-2015 11:30 PM</EventTime>		<!-- mm-dd-yyyy hh:mm a -->
+		<EventLocation>48.00000 49.0000</EventLocation>	<!-- GPS Coordinates or Address? -->
+		<EventImage></EventImage>
+		<IsCorporate>true/false</IsCorporate>			<!-- true/false -->
+		<IsPublic>true/false</IsPublic>					<!-- true/false -->
+		<GuestCanInvite>true/false</GuestCanInvite>		<!-- true/false -->
+		<GuestCanAddBeer>true/false</GuestCanAddBeer>	<!-- true/false -->
+		<InviteList>
+			<User id="44">HansHansen</User>				<!-- USER_NAME -->
+		</InviteList>
+		<GuestList>
+			<User id="33">LukeCitriniti</User>			<!-- USER_NAME -->
+		</GuestList>
+		<BeerList>
+			<Beer id="1">Heady Topper</Beer>							<!-- BREWERY - BEER_NAME -->
+			<Beer id="2">Pliny the Elder</Beer>
+			<Beer id="71">Sixpoint - High Resin</Beer>
+			<Beer id="19">Founders - Kentucky Breakfast Stout</Beer>
+			<Beer id="109">Founders - Canadian Breakfast Stout</Beer>
+			<Beer id="389037">Arctic Nail</Beer>
+		</BeerList>
+	</Event>
+</EventList>
